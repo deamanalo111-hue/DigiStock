@@ -1,0 +1,20 @@
+Red T-Shirt     XS     T-Shirt     300     25
+Plain White T-Shirt     L     T-Shirt     240.0     25
+Blue Shorts     XXL     Shorts     275     25
+Pink T-Shirt     S     T-Shirt     210.0     58
+Blue T-Shirt     XL     T-Shirt     385.75     25
+Red Pants     M     Pants     500     20
+Green T-Shirt     S     T-Shirt     230.00     30
+Yellow T-Shirt     M     T-Shirt     250.75     40
+Pink Pants     L     Pants     550     20
+Blue-Green T-Shirt     XXL     T-Shirt     400     20
+Red Pants     S     Pants     365     35
+Green T-Shirt     XS     T-Shirt     400     30
+Blue Blouse     XXL     Blouse     250     25
+White Shirt     M     Shirt     2300.0     24
+Blue Coat     M     Coat     250     25
+Green Blouse     XL     Blouse     234     24
+Blue Blouse     L     Blouse     234     34
+Pink T-Shirt     L     T-Shirt     250     0
+Pink T-Shirt     M     T-Shirt     234     0
+Red T-Shirt     L     T-Shirt     80     0
